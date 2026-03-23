@@ -1,5 +1,5 @@
 ---
-website: "Câmara Municipal de Albergaria (sítio Web institucionl)"          # Entre as aspas escreve o nome do website
+website: "Câmara Municipal de Albergaria (sítio Web institucional)"          # Entre as aspas escreve o nome do website
 date: "30/12/2025"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://www.cm-albergaria.pt"   # Entre as aspas escreve o domínio do website
 owner: "Câmara Municipal de Albergaria"         # Entre as aspas escrever o nome do owner do website
